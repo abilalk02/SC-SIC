@@ -1,0 +1,32 @@
+accelerate==1.1.1
+albumentations==1.4.21
+bitstring==4.2.3
+cryptography==44.0.2
+einops==0.8.0
+huggingface-hub==0.26.2
+imageio==2.36.0
+insightface==0.7.3
+kornia==0.7.4
+lpips==0.1.4
+matplotlib==3.10.1
+munch==4.0.0
+numpy==1.26.4
+onnx2torch==1.5.15
+onnxruntime==1.20.0
+opencv-python==4.10.0.84
+pillow==11.0.0
+pyldpc==0.7.9
+pynvml==11.5.3
+pytorch-fid==0.3.0
+safetensors==0.4.5
+scikit-image==0.24.0
+scikit-learn==1.5.2
+scipy==1.14.1
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+torchtools @ git+https://github.com/pabloppp/pytorch-tools
+tqdm==4.67.0
+transformers==4.46.3
+wandb==0.18.7
+warmup_scheduler @ git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git
+webdataset==0.2.100
