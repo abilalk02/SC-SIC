@@ -1,5 +1,3 @@
 # Efficient and Robust Semantic Image Communication via Stable Cascade
-This is the official repository of the paper "Efficient and Robust Semantic Image Communication via Stable Cascade"
-
-# Acknowledgment
-Most of the code in this repository is based on Stable Cascade https://github.com/Stability-AI/StableCascade
+Please check the repository https://github.com/abilalk02/D-SIC
+The repository contains the code for the journal paper "D-SIC: Energy-Efficient Digital Semantic Image Communication via Large Generative Models" which is an extension of this conference paper
